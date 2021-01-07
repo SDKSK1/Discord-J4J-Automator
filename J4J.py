@@ -1,6 +1,6 @@
 import re,requests,os
 from discord.ext import commands
-codeRegex = re.compile("(discord.gg/|discord.com/invite|discord.com/)([a-zA-Z0-9]+)")
+codeRegex = re.compile("(discord.gg/|discord.com/invite/|discord.com/)([a-zA-Z0-9]+)")
 selectedmessage = "please may you now join my server , discord.gg/invitelinkherelol"
 token = "token-here"
 
