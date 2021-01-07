@@ -1,5 +1,7 @@
 # Discord-J4J-Automator
 
+![ik your here to learn how to embed photos lol](https://giphy.com/gifs/Gy6PhwpSmVhPewmCL6)
+
 This will most likely get your account sms locked / banned.
 Please use an alt
 
