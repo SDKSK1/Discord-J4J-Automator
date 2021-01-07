@@ -1,6 +1,6 @@
 # Discord-J4J-Automator
 
-![Video Demo Here](https://streamable.com/nrxw4e)
+https://streamable.com/nrxw4e
 
 This will most likely get your account sms locked / banned.
 Please use an alt
