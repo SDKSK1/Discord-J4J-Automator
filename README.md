@@ -1,19 +1,38 @@
-# Discord-J4J-Automator
+# Discord J4J Automator
 
+## This will likely get your account sms locked or terminated, it is recommended use an alt.
+
+Example: 
 https://streamable.com/nrxw4e
 
-This will most likely get your account sms locked / banned.
-Please use an alt
+---
 
-How to use - put your token where it says token-here - on line 5
-Put your message in the " " on like 4
-Run the program!
+### How to use 
+1) Put your token where it says token-here - on line 5
+2) Put your message in the " " on like 4
+3) Run the program!
 
-You will need to join some join for join servers a big one I know of is discord.gg/j4j
-Type something like "j4j dm me" or start dming people "j4j?"
+You will need to join some join for join servers, a big one
+I know of is discord.gg/j4j. Send a message saying something
+like "j4j dm me" or start dming people "j4j?"
 
-As soon as a server link is sent to you, this program will make a post request to the server via your token and join it, if that goes ok it will reply saying "I joined [their server]" , and then your message, something along the lines of "please join my server [server]"
+As soon as a server link is sent to you, this program will
+make a POST request to the server via your token and join
+the new server, if that goes ok it will reply to the user
+saying "I joined [their server name]", and then your message,
+something along the lines of "Please join my server
+[your server name]"
 
-In the future I will consider putting a selection of j4j servers, making the bot pick a j4j server and channel channel and auto messaging it , or even making the bot dm people a server if they write "j4j" but I can see accounts getting disabled VERY FAST, then giving people a warning if they don't join the selected server and leaving if they still don't.
+---
 
-(This was a demo, I do not expect / encourage you to use it as it's a selfbot and violates discord's tos!)
+### Future Plans
+- Add a list of servers the bot will join at random and 
+automatically message users and/or channels
+- Warning people or leaving their server if they don't 
+join or leave after joining
+
+---
+
+### Warning
+This is a POC, I do not encourage the use of this as it's classifed
+as a selfbot and violates Discord's TOS!
