@@ -9,7 +9,7 @@ https://streamable.com/nrxw4e
 
 ### How to use 
 1) Put your token where it says token-here - on line 5
-2) Put your message in the " " on like 4
+2) Put your message in the " " on line 4
 3) Run the program!
 
 You will need to join some join for join servers, a big one
